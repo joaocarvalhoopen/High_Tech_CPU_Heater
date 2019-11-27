@@ -1,5 +1,5 @@
 # High Tech CPU Heater
-HAving fun with Python using CTypes with a DLL shared library in C and AVX2 instrinsics in parallel and using multi-threaded code with spots of assembly.
+Having fun with Python using CTypes with a DLL shared library in C and AVX2 instrinsics in parallel and using multi-threaded code with spots of assembly.
 
 ## Description
 This is a simple software version of a Rube Goldberg Machine! <br>
