@@ -1,4 +1,4 @@
-# High Tech CPU Heater - Python w/ DLL shared library and AVX2 in parallel using threads.
+# High Tech CPU Heater - Python using CTypes w/ DLL shared library in C and AVX2 instrinsics in parallel and using multi-threaded with spots of assembly.
 
 ## Description
 This is a simple software version of a Rube Goldberg Machine! <br>
